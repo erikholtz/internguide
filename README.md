@@ -1,5 +1,5 @@
 # intern guide
-This guide was created to introduce new interns to potential tools, skills and workflows which our may be required in our office.  
+This guide was created to introduce new interns to potential tools, skills, and workflows which may be required in our office.  
 
 # Categories
 * [Cartography](https://github.com/SLUGIS/internguide/blob/master/README.md#cartography)
